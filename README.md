@@ -19,6 +19,7 @@ O **WMS Enterprise** é uma solução robusta e moderna de Gerenciamento de Arma
 * **Processamento de Dados:** Pandas
 * **Gráficos:** Matplotlib
 * **Compilação:** PyInstaller
+* **Usuario:** teste **Senha:** 1234
 
 ## 📋 Pré-requisitos
 
