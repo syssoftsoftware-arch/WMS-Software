@@ -22,7 +22,21 @@ O **WMS Enterprise** é uma solução robusta e moderna de Gerenciamento de Arma
 
 ## 📋 Pré-requisitos
 
-Antes de rodar o projeto, você precisará instalar as dependências necessárias:
-
 ```bash
 pip install customtkinter pyodbc pandas matplotlib openpyxl
+
+🔧 Instalação e Execução
+Clone o repositório: python main.py
+
+📦 Como gerar o Executável (.exe)
+Para transformar o script em um executável único para Windows:
+pyinstaller --noconfirm --onefile --windowed --add-data "C:/Caminho/Para/customtkinter;customtkinter/" main(wms).py
+
+🤝 Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma Issue ou enviar um Pull Request.
+
+Faça um Fork do projeto
+Crie uma branch para sua funcionalidade (git checkout -b feature/NovaFeature)
+Commit suas mudanças (git commit -m 'Adicionando nova funcionalidade')
+Push para a branch (git push origin feature/NovaFeature)
+Abra um Pull Request
