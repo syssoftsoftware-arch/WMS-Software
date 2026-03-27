@@ -1,0 +1,17 @@
+--- NOTAS DE ATUALIZAÇÃO WMS ENTERPRISE ---
+
+[v12.1.0] - Versão Consolidada Enterprise
+- Adicionado: Aba de Changelog na administração.
+- Adicionado: Controle de versão SemVer visível no rodapé.
+- Melhoria: Mapeamento agressivo de dados do Access.
+
+[v12.0.0] - Lançamento Enterprise
+- Adicionado: Exportação de Auditoria para Excel (.xlsx).
+- Adicionado: Gerador de Etiquetas SKU em PDF.
+- Adicionado: Limpeza automática de campos e foco no SKU.
+- Adicionado: Validação de quantidade (apenas números).
+
+[v11.x] - Ciclo de Estabilidade
+- Implementação do Dashboard de Ocupação (Matplotlib).
+- Sistema de Login e Perfil (ADM/OPERADOR).
+- Correção de inversão de colunas na Auditoria.
